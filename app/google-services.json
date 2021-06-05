@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859196637025",
+    "project_id": "cloud-ass3-32d7c",
+    "storage_bucket": "cloud-ass3-32d7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859196637025:android:411d4b0063ed9da8d24f20",
+        "android_client_info": {
+          "package_name": "com.example.cloudass_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859196637025-vtk4b0ndclbn9o5ebb227lqh42l23j8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgzbS5JoryMvSaLhztL3MzNB_tM2Bk-gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859196637025-vtk4b0ndclbn9o5ebb227lqh42l23j8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
